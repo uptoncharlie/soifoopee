@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohquahceyo.beachandbush.ch/sitemap.xml
